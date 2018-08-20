@@ -1,0 +1,12 @@
+﻿401,致命一击,skill-02,210%伤害,SingleTarget,Attack,2.1,0,4,6,Swordman,1,Enemy,1.5,Efx_CriticalStrike,Skill-MagicBall,1.1
+402,盾牌精通,skill-07,加80%防御,Buff,Defence,1.8,30,12,5,Swordman,3,Self,0,Heal_Effect,Attack1,0.83
+403,战争咆哮,skill-05,加60%攻击,Buff,Attack,1.6,25,10,8,Swordman,3,Self,0,Effect_BlueHeal,Attack2,0.93
+404,死亡旋风,skill-03,150%伤害,MultiTarget,Attack,1.5,5,15,12,Swordman,6,Enemy,0,Efx_One-handQuicken,Skill-GroundImpact,1.1
+405,血脉觉醒,skill-06,加100%攻速,Buff,AttackSpeed,2,20,8,6,Swordman,8,Self,0,RangeMagic_Effect,Skill-GroundImpact,1.1
+406,陨石坠落,skill-04,350%伤害,MultiTarget,Attack,3.5,0,30,20,Swordman,10,Position,5,MagicSphere_effect,AttackCritical,0.8
+501,魔法火球,skill-09,200%伤害,SingleTarget,Attack,2,0,4,3,Magician,1,Enemy,4,Efx_CriticalStrike,Skill-MagicBall,1.1
+502,生命复苏,skill-13,加40点生命,Passive,HP,40,6,25,18,Magician,1,Self,0,Heal_Effect,Attack1,0.83
+503,魔法之泉,skill-10,加30点魔法,Paddive,MP,30,6,20,12,Magician,3,Self,0,Effect_BlueHeal,Attack2,0.93
+504,极限法强,skill-08,加50%法强,Buff,Attack,0.5,4,10,10,Magician,6,Self,0,Efx_One-handQuicken,Skill-GroundImpact,1.1
+505,高阶位移,skill-12,加40%速度,Buff,Speed,0.4,10,15,18,Magician,8,Self,0,RangeMagic_Effect,Skill-GroundImpact,1.1
+506,究极风暴,skill-11,400%伤害,MultiTarget,Attack,4,5,30,22,Magician,10,Position,7,MagicSphere_effect,AttackCritical,0.8
